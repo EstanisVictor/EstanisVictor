@@ -14,6 +14,16 @@
     <li>
      6th place in the IFMG Intercampi Programming Marathon, in the beginner level modality, in 2018
   </li>
+  <li>
+  I’m currently learning Python, Postegres, JavaScript, HTML and CSS
+</li>
+  <li>
+  <p>
+    <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>
+    How to reach me
+    <a href="mailto:victorestanislau1@gmail.com">victorestanislau1@gmail.com</a>
+  </p>
+</li>
 </ul>
 </p>
 <div>
