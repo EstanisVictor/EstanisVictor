@@ -55,7 +55,7 @@
   <hr>
 </div>
 <div>
-  <h3>Connect with me::</h3>  
+  <h3>Connect with me:</h3>  
     <a href="https://www.instagram.com/estanisvictor"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="45" height="45" align="left" hspace="1"></a>
     <a href="https://twitter.com/EstanisVictor"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="45" height="45" align="left" hspace="1"></a>
    <a href="https://www.linkedin.com/in/estanisvictor"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="45" height="45" align="left" hspace="1"></a>
