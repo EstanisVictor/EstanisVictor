@@ -51,6 +51,7 @@
   <a href = "#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="max-width:100%;"></a>
   <a href = "#"><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" style="max-width:100%;"></a>
   <a href = "#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="max-width:100%;"></a>
+  <a href = "#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width:100%;"></a>
   <hr>
 </div>
 <div>
