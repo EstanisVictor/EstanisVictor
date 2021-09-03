@@ -61,3 +61,7 @@
    <a href="https://www.linkedin.com/in/estanisvictor"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="45" height="45" align="left" hspace="1"></a>
    <a href="https://www.facebook.com/victorestanislau.estanislau"><img src="https://image.flaticon.com/icons/png/512/220/220200.png" width="45" height="45" align="left" hspace="1"></a>
 </div>
+<br><br><br>
+<div>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstanisVictor&show_icons=true&theme=dark&locale=en&layout=compact" alt="EstanisVictor"/></a>
+</div>
