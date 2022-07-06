@@ -15,6 +15,9 @@
      6th place in the IFMG Intercampi Programming Marathon, in the beginner level modality, in 2018
   </li>
   <li>
+     Participated in the 9th Minas Gerais Programming Marathon, in 2022
+  </li>
+  <li>
   I’m currently learning Python, Postegres, JavaScript, HTML and CSS
 </li>
   <li>
