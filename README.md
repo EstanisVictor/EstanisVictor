@@ -21,9 +21,6 @@
   I’m currently learning Python, Postegres, JavaScript, HTML and CSS
 </li>
   <li>
-  I'm currently doing a young apprentice at the mining company VALE in Mechanical Maintenance of Industrial Machines
-</li>
-  <li>
   <p>
     <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>
     How to reach me
