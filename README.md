@@ -31,7 +31,7 @@
 </p>
 <div>
   <hr>
-  <h3>Linguages:</h3>
+  <h3>Languages:</h3>
   <a href = "#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width:100%;"></a>
   <a href = "#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href = "#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width:100%;"></a>
