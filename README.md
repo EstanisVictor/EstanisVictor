@@ -32,8 +32,11 @@
 <div>
   <hr>
   <h3>Languages:</h3>
+  <p>Back</p>
   <a href = "#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width:100%;"></a>
   <a href = "#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <br>
+  <p>Front</p>
   <a href = "#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width:100%;"></a>
   <a href = "#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="max-width:100%;"> </a>
   <a href = "#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width:100%;"></a>
@@ -66,5 +69,6 @@
 </div>
 <br><br><br>
 <div>
-  <a href="https://github.com/EstanisVictor"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstanisVictor&show_icons=true&theme=dark&locale=en&layout=compact" alt="EstanisVictor"/></a>
+  <a href="https://github.com/EstanisVictor"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstanisVictor&show_icons=true&theme=dark&locale=en&layout=compact" alt="EstanisVictor"/>
+  </a>
 </div>
