@@ -32,26 +32,60 @@
 <div>
   <hr>
   <h3>Languages:</h3>
-  <p>Back</p>
-  <a href = "#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width:100%;"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-  <br>
+  
   <p>Front</p>
-  <a href = "#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width:100%;"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="max-width:100%;"> </a>
-  <a href = "#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width:100%;"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="max-width:100%;"> </a>
+  <a href = "https://html.com">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  </a>
+  <a href = "https://www.w3.org/Style/CSS/Overview.en.html">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  </a>
+  <a href = "https://www.javascript.com">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  </a>
+  <a href = "https://www.typescriptlang.org">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </a>
+  <br><br>
+  
+  <p>Back</p>
+  <a href = "https://www.java.com/pt-BR/">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  </a>
+  <a href = "https://www.python.org">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  </a>
+  <a href = "https://docs.microsoft.com/pt-br/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  </a>
+  <a href = "https://www.php.net">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  </a>
   <br>
+  
   <h3>Database:</h3>
-  <a href = "#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="max-width:100%;"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width:100%;"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" style="max-width:100%;"></a>
+  <a href = "https://www.mysql.com">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  </a>
+  <a href = "https://www.postgresql.org">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  </a>
+  <a href = "https://www.sqlite.org/index.html">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
+  </a>
   <h3>IDEs Editors:</h3>
-  <a href = "#"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" style="max-width:100%;"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" style="max-width:100%;"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" style="max-width:100%;"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="max-width:100%;"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" style="max-width:100%;"></a>
+  <a href = "https://developer.android.com">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
+  </a>
+  <a href = "https://www.jetbrains.com/pt-br/pycharm/download/#section=windows">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+  </a>
+  <a href = "https://code.visualstudio.com">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
+  </a>
+  <a href = "https://www.jetbrains.com/pt-br/idea/">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">
+  </a>
   <br>
   <h3>Operating System:</h3>
   <a href = "#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="max-width:100%;"></a>
