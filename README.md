@@ -18,9 +18,6 @@
      Participated in the 9th Minas Gerais Programming Marathon, in 2022
   </li>
   <li>
-  I’m currently learning Python, Postegres, JavaScript, HTML and CSS
-</li>
-  <li>
   <p>
     <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>
     How to reach me
@@ -68,30 +65,42 @@
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   </a>
   <a href = "https://www.postgresql.org">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   </a>
   <a href = "https://www.sqlite.org/index.html">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
   </a>
+  
+  <br>
+  <h3>Others:</h3>
+  <a href = "https://www.android.com/intl/pt-BR_br/">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+  </a>
+  <a href = "https://ubuntu.com">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  </a>
+  <a href = "https://www.linux.org">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  </a>
+  <a href = "https://git-scm.com">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  </a>
+  
+  <br>
   <h3>IDEs Editors:</h3>
   <a href = "https://developer.android.com">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
+    <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg">
   </a>
   <a href = "https://www.jetbrains.com/pt-br/pycharm/download/#section=windows">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+    <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg">
   </a>
   <a href = "https://code.visualstudio.com">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
+    <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg">
   </a>
   <a href = "https://www.jetbrains.com/pt-br/idea/">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">
+    <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">
   </a>
-  <br>
-  <h3>Operating System:</h3>
-  <a href = "#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="max-width:100%;"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" style="max-width:100%;"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="max-width:100%;"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width:100%;"></a>
+  
   <hr>
 </div>
 <div>
