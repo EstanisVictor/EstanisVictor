@@ -18,6 +18,9 @@
      Participated in the 9th Minas Gerais Programming Marathon, in 2022
   </li>
   <li>
+     Participated in the SBC Programming Marathon, in 2022 - First Phase
+  </li>
+  <li>
   <p>
     <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>
     How to reach me
