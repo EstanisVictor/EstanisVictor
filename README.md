@@ -12,7 +12,7 @@
   </li>
   </li>
     <li>
-     6th place in the IFMG Intercampi Programming Marathon, in the beginner level modality, in 2018
+     Participated in the IFMG Intercampi Programming Marathon, in the beginner level modality, in 2018
   </li>
   <li>
      Participated in the 9th Minas Gerais Programming Marathon, in 2022
