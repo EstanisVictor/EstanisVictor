@@ -46,14 +46,20 @@
   <a href = "https://html.com">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   </a>
-  <a href = "https://www.w3.org/Style/CSS/Overview.en.html">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <a href = "https://sass-lang.com">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   </a>
   <a href = "https://www.javascript.com">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </a>
   <a href = "https://www.typescriptlang.org">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </a>
+  <a href = "https://react.dev">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  </a>
+  <a href = "https://nextjs.org">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   </a>
   <br><br>
   
@@ -67,8 +73,8 @@
   <a href = "https://docs.microsoft.com/pt-br/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   </a>
-  <a href = "https://www.php.net">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <a href = "https://spring.io">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   </a>
   <br>
   
@@ -79,15 +85,9 @@
   <a href = "https://www.postgresql.org">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   </a>
-  <a href = "https://www.sqlite.org/index.html">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
-  </a>
   
   <br>
   <h3>Others:</h3>
-  <a href = "https://www.android.com/intl/pt-BR_br/">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
-  </a>
   <a href = "https://ubuntu.com">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
   </a>
@@ -97,17 +97,16 @@
   <a href = "https://git-scm.com">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   </a>
-  
+  <a href = "https://docs.docker.com">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  </a>
   <br>
   <h3>IDEs Editors:</h3>
-  <a href = "https://developer.android.com">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  </a>
   <a href = "https://www.jetbrains.com/pt-br/pycharm/download/#section=windows">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
   </a>
   <a href = "https://code.visualstudio.com">
-    <img align="center"height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center"height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </a>
   <a href = "https://www.jetbrains.com/pt-br/idea/">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
