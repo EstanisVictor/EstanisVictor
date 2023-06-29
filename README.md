@@ -18,6 +18,9 @@
      Participated in the 9th Minas Gerais Programming Marathon, in 2022
   </li>
   <li>
+     Participated in the 10th Minas Gerais Programming Marathon, in 2023
+  </li>
+  <li>
      Participated in the SBC Programming Marathon, in 2022 - First Phase
   </li>
   <li>
