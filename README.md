@@ -49,6 +49,9 @@
   <a href = "https://sass-lang.com">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   </a>
+  <a href = "https://tailwindcss.com/">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  </a>
   <a href = "https://www.javascript.com">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </a>
@@ -88,8 +91,11 @@
   
   <br>
   <h3>Others:</h3>
+  <a href = "https://archlinux.org/">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
+  </a>
   <a href = "https://ubuntu.com">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
   </a>
   <a href = "https://www.linux.org">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -100,18 +106,6 @@
   <a href = "https://docs.docker.com">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   </a>
-  <br>
-  <h3>IDEs Editors:</h3>
-  <a href = "https://www.jetbrains.com/pt-br/pycharm/download/#section=windows">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
-  </a>
-  <a href = "https://code.visualstudio.com">
-    <img align="center"height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </a>
-  <a href = "https://www.jetbrains.com/pt-br/idea/">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  </a>
-  
   <hr>
 </div>
 <div>
