@@ -32,9 +32,6 @@
   <a href="https://html.com" target="_blank" rel="noreferrer">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5">
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass">
-  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS">
   </a>
